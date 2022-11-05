@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @azharahmad6274
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Azhar Ahmad Mir
+- 👀 I’m interested Technology and Nano technology.
+- 🌱 I’m currently learning BCA Student GDC Beerwah
+- 
 
-<!---
-azharahmad6274/azharahmad6274 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Center your computer science resume objective around the benefit you
+hope to provide to the employer. “I’m looking for a job” 
+can’t hold a candle to, “I want to double your efficiency.
